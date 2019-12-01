@@ -51,8 +51,7 @@ Because a large volume of varied data from many sources must be collected, store
 <br>
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
-Figure 2: Workflow
-<br>
+Figure 2: Workflow<br>
 ![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
@@ -89,7 +88,6 @@ I plan to use Neo4J database, a graph database. Unlike relational databases, Neo
 <br>
 
 ## Reference
-<br>
 [1] Neo4J Official Website: https://neo4j.com/
 <br>
 [2] NoSQL Databases (2017), http://nosql-database.org/
