@@ -21,6 +21,7 @@ In China, in 2018, there were 110 million new life insurance policies, 300,000 p
 The data in the insurance industry is not limited to the transaction data itself, not just the data in various documents filled in for business. There is also data from all user behavior. There is no doubt that the insurance industry data is large enough.
 <br>
 Figure 1: Increasing availability of data
+<br>
 ![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Figure%201.png)
 <br>
 Source: Institute of International Finance
