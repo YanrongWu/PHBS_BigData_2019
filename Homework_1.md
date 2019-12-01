@@ -47,6 +47,7 @@ Let's look at the phone sales. A rough estimate is that if a company has 30,000 
 
 ## 2 Solution
 Because a large volume of varied data from many sources must be collected, stored, and processed, this business challenge is a good candidate for a big data solution.
+
 <br>
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
@@ -64,23 +65,23 @@ We can use data providers from:
 	Entity resolution
 <br>
 	Big data explorer components
-
+<br>
 <br>
 The data required for insurance fraud detection can be acquired from various sources and systems such as banks, medical institutions, social media, and Internet agencies. It includes unstructured data from sources such as blogs, social media, news agencies, reports from various agencies. With big data analytics, the information from these varied sources can be correlated and combined, and — with the help of defined rules — analyzed to determine the possibility of fraud.
-
+<br>
 <br>
 The required external data is acquired from data providers who contribute preprocessed, unstructured data converted to structured or semi-structured format. This data is stored in the big data stores after initial preprocessing. The next step is to identify possible entities and generate ad-hoc reports from the data.
-
+<br>
 <br>
 Entity identification is the task of recognizing named elements in the data. All entities required for analysis must be identified, including loose entities that do not have relationships to other entities. Entity identification is mostly performed by data scientists and business analysts. Entity resolution can be as simple as identifying single entities or complex entities based on the data relationships and contexts. This pattern uses the simple-form entity resolution component.
 Structured data can be simply converted into the format most appropriate for analysis and directly stored in big data structured storages.
-
+<br>
 <br>
 Ad-hoc queries can be performed on this data to get the information like:
 <br>
 •	Overall fraud risk profile for a given customer, region, insurance product, agent, or approving staff in the given period
 <br>
 •	Inspection of past claims by certain agents or approvers or by the customer across insurers
-
+<br>
 <br>
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
