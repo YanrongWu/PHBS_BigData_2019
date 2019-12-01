@@ -52,6 +52,7 @@ Because a large volume of varied data from many sources must be collected, store
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
 Figure 2: Workflow
+<br>
 ![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
