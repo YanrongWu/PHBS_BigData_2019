@@ -22,7 +22,7 @@ The data in the insurance industry is not limited to the transaction data itself
 <br>
 Figure 1: Increasing availability of data
 <br>
-![]()
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Figure%201.png)
 <br>
 Source: Institute of International Finance
 
@@ -32,7 +32,7 @@ Variety：
 The data used by insurance firms in the different stages of the insurance value chain may include personal data(e.g. medical history) as well as non-personal data (e.g. hazard data), and it can be structured (e.g. survey, IoT data) or unstructured (e.g. pictures or e-mails). It can be obtained from internal sources (e.g. provided directly by the consumer to the firm) as well as from external sources (e.g. public databases or private data vendors). 
 <br>
 Chart 1: Data Source
-![]()
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 Source: The Geneva Association
 
 <br>
@@ -49,7 +49,7 @@ Because a large volume of varied data from many sources must be collected, store
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
 Figure 2: Workflow
-![]()
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
 <br>
