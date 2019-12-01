@@ -21,8 +21,7 @@ In China, in 2018, there were 110 million new life insurance policies, 300,000 p
 The data in the insurance industry is not limited to the transaction data itself, not just the data in various documents filled in for business. There is also data from all user behavior. There is no doubt that the insurance industry data is large enough.
 <br>
 Figure 1: Increasing availability of data
-<br>
-![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Figure%201.png)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Figure%201.png)
 <br>
 Source: Institute of International Finance
 
@@ -86,8 +85,8 @@ Ad-hoc queries can be performed on this data to get the information like:
 <br>
 <br>
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
-
 <br>
+
 ## Reference
 <br>
 [1] Neo4J Official Website: https://neo4j.com/
