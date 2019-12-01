@@ -89,6 +89,7 @@ I plan to use Neo4J database, a graph database. Unlike relational databases, Neo
 
 <br>
 ## Reference
+<br>
 [1] Neo4J Official Website: https://neo4j.com/
 <br>
 [2] NoSQL Databases (2017), http://nosql-database.org/
