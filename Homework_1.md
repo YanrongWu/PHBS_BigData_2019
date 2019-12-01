@@ -1,6 +1,8 @@
 # Research on Insurance Fraud Detection based on Big Data
 ## Yanrong Wu 1801212952
 Actually, because I have done internship at a Insurance company, I want to use big data to analyze insurance fraud detection problem. Its basic idea can transfer to other areas. The main difficult point is getting the data.
+P.S. To aviod the problem of image missing, I have also attached the pdf version.
+
 <br>
 Insurance fraud is an act or omission intended to gain dishonest or unlawful advantage, either for the party committing the fraud or for other related parties. Broad categories of fraud include:
 <br>
@@ -34,7 +36,7 @@ The data used by insurance firms in the different stages of the insurance value 
 <br>
 Chart 1: Data Source
 <br>
-![](github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 <br>
 Source: The Geneva Association
 
@@ -54,7 +56,7 @@ The following diagram shows the solution pattern, mapped onto the logical archit
 <br>
 Figure 2: Workflow
 <br>
-![](github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
 <br>
