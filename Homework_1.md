@@ -29,7 +29,6 @@ Figure 1: Increasing availability of data
 <br>
 Source: Institute of International Finance
 
-<br>
 ### 1.2 Variety
 The data used by insurance firms in the different stages of the insurance value chain may include personal data(e.g. medical history) as well as non-personal data (e.g. hazard data), and it can be structured (e.g. survey, IoT data) or unstructured (e.g. pictures or e-mails). It can be obtained from internal sources (e.g. provided directly by the consumer to the firm) as well as from external sources (e.g. public databases or private data vendors). 
 <br>
@@ -39,7 +38,6 @@ Chart 1: Data Source
 <br>
 Source: The Geneva Association
 
-<br>
 ### 1.3 Velocity
 Earlier I have mentioned that life insurance is 3.5 policies per second, this number does not seem to be fast enough to generate data.
 <br>
