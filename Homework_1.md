@@ -33,7 +33,7 @@ The data used by insurance firms in the different stages of the insurance value 
 <br>
 Chart 1: Data Source
 <br>
-![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 <br>
 Source: The Geneva Association
 
@@ -53,7 +53,7 @@ The following diagram shows the solution pattern, mapped onto the logical archit
 <br>
 Figure 2: Workflow
 <br>
-![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
 <br>
