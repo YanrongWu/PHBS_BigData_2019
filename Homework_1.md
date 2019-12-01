@@ -17,7 +17,7 @@ Data processing has always been at the very core of insurance business; traditio
 <br>
 
 ## 1 Big data characteristics (3Vs)
-### Volume
+### 1.1 Volume
 The scale of the insurance industry data is very large. First of all, the scale of the transaction data itself is very large.
 In China, in 2018, there were 110 million new life insurance policies, 300,000 per day, 13,000 per hour, and 3.5 per second. This is only life insurance. The number of all insurance (health insurance, accident insurance, and property insurance) policies is much larger than life insurance.
 <br>
@@ -30,7 +30,7 @@ Figure 1: Increasing availability of data
 Source: Institute of International Finance
 
 <br>
-### Variety
+### 1.2 Variety
 The data used by insurance firms in the different stages of the insurance value chain may include personal data(e.g. medical history) as well as non-personal data (e.g. hazard data), and it can be structured (e.g. survey, IoT data) or unstructured (e.g. pictures or e-mails). It can be obtained from internal sources (e.g. provided directly by the consumer to the firm) as well as from external sources (e.g. public databases or private data vendors). 
 <br>
 Chart 1: Data Source
@@ -40,7 +40,7 @@ Chart 1: Data Source
 Source: The Geneva Association
 
 <br>
-### Velocity
+### 1.3 Velocity
 Earlier I have mentioned that life insurance is 3.5 policies per second, this number does not seem to be fast enough to generate data.
 <br>
 Let's look at the phone sales. A rough estimate is that if a company has 30,000 sales in the life insurance telemarketing industry, it will make 8 hours of phone calls per day and generate 1M audio files based on 3-5 minutes, which is about 300M audio per second.
@@ -48,8 +48,8 @@ Let's look at the phone sales. A rough estimate is that if a company has 30,000 
 
 ## 2 Solution
 Because a large volume of varied data from many sources must be collected, stored, and processed, this business challenge is a good candidate for a big data solution.
-
 <br>
+### 2.1 Workflow
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
 Figure 2: Workflow
@@ -85,7 +85,7 @@ Ad-hoc queries can be performed on this data to get the information like:
 <br>
 •	Inspection of past claims by certain agents or approvers or by the customer across insurers
 <br>
-<br>
+### 2.2 Database
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
 <br>
 
