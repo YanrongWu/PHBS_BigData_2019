@@ -26,6 +26,7 @@ The data in the insurance industry is not limited to the transaction data itself
 Figure 1: Increasing availability of data
 <br>
 ![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Figure%201.png)
+<br>
 Source: Institute of International Finance
 
 <br>
@@ -35,6 +36,7 @@ The data used by insurance firms in the different stages of the insurance value 
 Chart 1: Data Source
 <br>
 ![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+<br>
 Source: The Geneva Association
 
 <br>
@@ -53,6 +55,7 @@ The following diagram shows the solution pattern, mapped onto the logical archit
 Figure 2: Workflow
 <br>
 ![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
+<br>
 We can use data providers from:
 <br>
 	External data sources
