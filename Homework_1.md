@@ -33,7 +33,7 @@ The data used by insurance firms in the different stages of the insurance value 
 <br>
 Chart 1: Data Source
 <br>
-![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 <br>
 Source: The Geneva Association
 
