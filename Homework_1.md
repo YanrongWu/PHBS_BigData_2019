@@ -88,7 +88,6 @@ Ad-hoc queries can be performed on this data to get the information like:
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
 
 <br>
-
 ## Reference
 <br>
 [1] Neo4J Official Website: https://neo4j.com/
