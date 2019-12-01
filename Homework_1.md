@@ -1,7 +1,6 @@
 # Research on Insurance Fraud Detection based on Big Data
 ## Yanrong Wu 1801212952
-Actually, because I have done internship at a Insurance company before, I want to use big data to analyze insurance fraud detection problem. Its basic idea can transfer to other areas. The main difficult point is getting the data.
-P.S. To aviod the problem of image missing, I have also attached the pdf version.
+Actually, because I have done internship at a Insurance company before, so I want to use big data to analyze insurance fraud detection problem. The main difficult point is getting the data.
 
 <br>
 Insurance fraud is an act or omission intended to gain dishonest or unlawful advantage, either for the party committing the fraud or for other related parties. Broad categories of fraud include:
