@@ -12,8 +12,7 @@ Insurance fraud is an act or omission intended to gain dishonest or unlawful adv
 Data processing has always been at the very core of insurance business; traditional datasets such as demographic data, exposure data or behavioral data have historically been processed by insurance firms to inform underwriting decisions, price policies, evaluate and settle policyholders’ claims and benefits, as well as to detect and prevent fraud. In the era of digitalization, these tradition- al datasets are increasingly combined with new types of data such as Internet of Things (IoT) data, online data, or bank account / credit card data in order to perform more sophisticated and comprehensive analysis, in a process that is commonly known as ‘data enrichment.’ 
 <br>
 
-# 1 Big data characteristics (3Vs)
-<br>
+## 1 Big data characteristics (3Vs)
 Volume：
 <br>
 The scale of the insurance industry data is very large. First of all, the scale of the transaction data itself is very large.
@@ -24,7 +23,9 @@ The data in the insurance industry is not limited to the transaction data itself
 Figure 1: Increasing availability of data
 <br>
 ![]()
+<br>
 Source: Institute of International Finance
+
 <br>
 Variety：
 <br>
@@ -33,6 +34,7 @@ The data used by insurance firms in the different stages of the insurance value 
 Chart 1: Data Source
 ![]()
 Source: The Geneva Association
+
 <br>
 Velocity：
 <br>
@@ -41,7 +43,7 @@ Earlier I have mentioned that life insurance is 3.5 policies per second, this nu
 Let's look at the phone sales. A rough estimate is that if a company has 30,000 sales in the life insurance telemarketing industry, it will make 8 hours of phone calls per day and generate 1M audio files based on 3-5 minutes, which is about 300M audio per second.
 <br>
 
-# 2 Solution
+## 2 Solution
 Because a large volume of varied data from many sources must be collected, stored, and processed, this business challenge is a good candidate for a big data solution.
 <br>
 The following diagram shows the solution pattern, mapped onto the logical architecture.
@@ -60,18 +62,23 @@ We can use data providers from:
 	Entity resolution
 <br>
 	Big data explorer components
+
 <br>
 The data required for insurance fraud detection can be acquired from various sources and systems such as banks, medical institutions, social media, and Internet agencies. It includes unstructured data from sources such as blogs, social media, news agencies, reports from various agencies. With big data analytics, the information from these varied sources can be correlated and combined, and — with the help of defined rules — analyzed to determine the possibility of fraud.
+
 <br>
 The required external data is acquired from data providers who contribute preprocessed, unstructured data converted to structured or semi-structured format. This data is stored in the big data stores after initial preprocessing. The next step is to identify possible entities and generate ad-hoc reports from the data.
+
 <br>
 Entity identification is the task of recognizing named elements in the data. All entities required for analysis must be identified, including loose entities that do not have relationships to other entities. Entity identification is mostly performed by data scientists and business analysts. Entity resolution can be as simple as identifying single entities or complex entities based on the data relationships and contexts. This pattern uses the simple-form entity resolution component.
 Structured data can be simply converted into the format most appropriate for analysis and directly stored in big data structured storages.
+
 <br>
 Ad-hoc queries can be performed on this data to get the information like:
 <br>
 •	Overall fraud risk profile for a given customer, region, insurance product, agent, or approving staff in the given period
 <br>
 •	Inspection of past claims by certain agents or approvers or by the customer across insurers
+
 <br>
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
