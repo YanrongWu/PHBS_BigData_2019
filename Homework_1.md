@@ -33,7 +33,7 @@ The data used by insurance firms in the different stages of the insurance value 
 <br>
 Chart 1: Data Source
 <br>
-![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 <br>
 Source: The Geneva Association
 
@@ -86,3 +86,13 @@ Ad-hoc queries can be performed on this data to get the information like:
 <br>
 <br>
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
+
+<br>
+## Reference
+[1] Neo4J Official Website: https://neo4j.com/
+<br>
+[2] NoSQL Databases (2017), http://nosql-database.org/
+<br>
+[3] Lin, W., Wu, Z., Lin, L., Wen, A., & Li, J. (2017). An ensemble random forest algorithm for insurance big data analysis. Ieee Access, 5, 16568-16575.
+<br>
+[4] Bologa, A. R., Bologa, R., & Florea, A. (2013). Big data and specific analysis methods for insurance fraud detection. Database Systems Journal, 4(4), 30-39.
