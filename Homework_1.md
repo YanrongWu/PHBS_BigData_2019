@@ -13,7 +13,7 @@ Data processing has always been at the very core of insurance business; traditio
 <br>
 
 ## 1 Big data characteristics (3Vs)
-### Volume：
+### Volume
 The scale of the insurance industry data is very large. First of all, the scale of the transaction data itself is very large.
 In China, in 2018, there were 110 million new life insurance policies, 300,000 per day, 13,000 per hour, and 3.5 per second. This is only life insurance. The number of all insurance (health insurance, accident insurance, and property insurance) policies is much larger than life insurance.
 <br>
@@ -26,7 +26,7 @@ Figure 1: Increasing availability of data
 Source: Institute of International Finance
 
 <br>
-### Variety：
+### Variety
 <br>
 The data used by insurance firms in the different stages of the insurance value chain may include personal data(e.g. medical history) as well as non-personal data (e.g. hazard data), and it can be structured (e.g. survey, IoT data) or unstructured (e.g. pictures or e-mails). It can be obtained from internal sources (e.g. provided directly by the consumer to the firm) as well as from external sources (e.g. public databases or private data vendors). 
 <br>
@@ -37,7 +37,7 @@ Chart 1: Data Source
 Source: The Geneva Association
 
 <br>
-### Velocity：
+### Velocity
 <br>
 Earlier I have mentioned that life insurance is 3.5 policies per second, this number does not seem to be fast enough to generate data.
 <br>
