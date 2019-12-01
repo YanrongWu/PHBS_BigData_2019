@@ -32,7 +32,9 @@ Variety：
 The data used by insurance firms in the different stages of the insurance value chain may include personal data(e.g. medical history) as well as non-personal data (e.g. hazard data), and it can be structured (e.g. survey, IoT data) or unstructured (e.g. pictures or e-mails). It can be obtained from internal sources (e.g. provided directly by the consumer to the firm) as well as from external sources (e.g. public databases or private data vendors). 
 <br>
 Chart 1: Data Source
+<br>
 ![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+<br>
 Source: The Geneva Association
 
 <br>
