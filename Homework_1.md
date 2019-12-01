@@ -11,7 +11,7 @@ Insurance fraud is an act or omission intended to gain dishonest or unlawful adv
 •	Intermediary fraud — Fraud perpetuated by an insurance agent, corporate agent, intermediary, or third party-agent against the insurer or the policy holders.
 <br>
 •	Internal fraud — Fraud against the insurer by its director, manager, or any other staff or office member.
-
+<br>
 <br>
 Data processing has always been at the very core of insurance business; traditional datasets such as demographic data, exposure data or behavioral data have historically been processed by insurance firms to inform underwriting decisions, price policies, evaluate and settle policyholders’ claims and benefits, as well as to detect and prevent fraud. In the era of digitalization, these tradition- al datasets are increasingly combined with new types of data such as Internet of Things (IoT) data, online data, or bank account / credit card data in order to perform more sophisticated and comprehensive analysis, in a process that is commonly known as ‘data enrichment.’ 
 <br>
