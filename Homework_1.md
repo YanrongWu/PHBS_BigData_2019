@@ -33,7 +33,7 @@ The data used by insurance firms in the different stages of the insurance value 
 <br>
 Chart 1: Data Source
 <br>
-![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
+![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Chart%201.png)
 <br>
 Source: The Geneva Association
 
@@ -53,7 +53,7 @@ The following diagram shows the solution pattern, mapped onto the logical archit
 <br>
 Figure 2: Workflow
 <br>
-![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
+![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
 <br>
@@ -88,6 +88,7 @@ Ad-hoc queries can be performed on this data to get the information like:
 I plan to use Neo4J database, a graph database. Unlike relational databases, Neo4j stores interconnected data that is neither purely linear nor purely hierarchical, making it easier to detect rings of fraudulent activity regardless of the depth or the shape of the data.
 
 <br>
+
 ## Reference
 <br>
 [1] Neo4J Official Website: https://neo4j.com/
