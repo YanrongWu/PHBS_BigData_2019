@@ -14,7 +14,6 @@ Data processing has always been at the very core of insurance business; traditio
 
 ## 1 Big data characteristics (3Vs)
 ### Volume：
-<br>
 The scale of the insurance industry data is very large. First of all, the scale of the transaction data itself is very large.
 In China, in 2018, there were 110 million new life insurance policies, 300,000 per day, 13,000 per hour, and 3.5 per second. This is only life insurance. The number of all insurance (health insurance, accident insurance, and property insurance) policies is much larger than life insurance.
 <br>
@@ -52,7 +51,7 @@ Because a large volume of varied data from many sources must be collected, store
 The following diagram shows the solution pattern, mapped onto the logical architecture.
 <br>
 Figure 2: Workflow<br>
-![image](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
+![](https://github.com/YanrongWu/PHBS_BigData_2019/blob/master/Workflow.jpg)
 <br>
 We can use data providers from:
 <br>
